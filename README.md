@@ -15,19 +15,19 @@ def concat(a, b):
 ```
 
 ```py
->>> print(add(1, 2))
+>>> add(1, 2)
 3
 
->>> print(add([1, 2, 3], 10))
+>>> add([1, 2, 3], 10)
 [11, 12, 13]
 
->>> print(add([1, 2], [10, 20]))
+>>> add([1, 2], [10, 20])
 [11, 22]
 
->>> print(concat("x", "a"))
+>>> concat("x", "a")
 x-a
 
->>> print(concat("x", ["a", "b", "c"]))
+>>> concat("x", ["a", "b", "c"])
 ['x-a', 'x-b', 'x-c']
 ```
 
