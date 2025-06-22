@@ -30,3 +30,11 @@ x-a
 >>> print(concat("x", ["a", "b", "c"]))
 ['x-a', 'x-b', 'x-c']
 ```
+
+<br>
+
+You can try it:
+
+```bash
+pip install git+https://github.com/JosephBARBIERDARNAL/asvector.git
+```
