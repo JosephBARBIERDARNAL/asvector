@@ -1,5 +1,7 @@
 # `asvector`: vectorize your Python functions
 
+This project is a minimalist PoC that aims to "natively" vectorize Python function, similarly to what R does.
+
 ```python
 from asvector import vectorize
 
